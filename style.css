@@ -60,3 +60,7 @@ a:hover, a:active {
     margin: 0 auto;
     font-size: 20px;
 }
+.My-Picture{
+	width: 40em;
+	max-width: 90%;
+}
