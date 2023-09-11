@@ -64,4 +64,5 @@ a:hover, a:active {
 .Potrait{
 	height: 100%;
 	width: auto;
+	transform: rotate(90deg);
 }
